@@ -6,6 +6,11 @@ TagManager:
   tags:
   - ground
   - Ground
+  - Enemigo
+  - Enemy
+  - Bullet
+  - Bala
+  - Jugador
   layers:
   - Default
   - TransparentFX
